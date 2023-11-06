@@ -19,7 +19,8 @@ To use the project, simply open the gogglemeet.html file in your web browser.
 
 ## Authors
 
-- [AnitaMohanta23](https://github.com/AnitaMohanta23/Google-Meet-Clone)
+- Github -[AnitaMohanta23](https://github.com/AnitaMohanta23/Google-Meet-Clone)
+- LinkedIn -[Anita Mohanta]( https://linkedin.com/in/anita-mohanta-643717228)
 
 ## Contributing
 
