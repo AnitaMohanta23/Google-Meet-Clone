@@ -1,7 +1,8 @@
 # Google-Meet-Clone
 
 
-A Google Meet clone project built using HTML, CSS, Tailwind CSS, and JavaScript. The project is responsive and works well on all devices, including mobile, tablet, and TV.
+A Google Meet clone project built using HTML, CSS and JavaScript.
+The project is responsive and works well on all devices, including mobile, tablet, and TV.
 
 <div align=center>
 
@@ -58,9 +59,7 @@ Clone the project
 ```
 
 
-## Screenshots
+![image](https://github.com/AnitaMohanta23/Google-Meet-Clone/assets/124444765/37b907c6-c0d0-4192-aad0-a3cabff1f754)
 
-(![Screenshot (40)](https://github.com/AnitaMohanta23/Google-Meet-Clone/assets/124444765/02515c7d-e0cb-4386-aa89-d345488bc3f8)
-)
 
 
