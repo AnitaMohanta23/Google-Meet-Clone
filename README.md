@@ -1,1 +1,77 @@
 # Google-Meet-Clone
+
+
+A Google Meet clone project built using HTML, CSS, Tailwind CSS, and JavaScript. The project is responsive and works well on all devices, including mobile, tablet, and TV.
+
+<div align=center>
+
+
+## Features
+
+- A responsive design.
+- Effect of hovering.
+- The width of the device will be automatically fixed.
+
+# Usage
+
+To use the project, simply open the gogglemeet.html file in your web browser.
+
+## Authors
+
+- [AnitaMohanta23](https://github.com/AnitaMohanta23/Google-Meet-Clone)
+
+## Contributing
+
+This project is open for contributions. If you would like to contribute to this project, you can fork the repository and submit a pull request.<br>
+Contributions are always welcome!
+
+See `gogglemeet.html` for ways to get started.
+
+Please adhere to this project's `code of conduct`.
+
+## Demo
+
+
+https://github.com/AnitaMohanta23/Google-Meet-Clone/
+
+## Feedback
+
+If you have any feedback, please reach out to us at anitamohanta382@gmail.com
+
+
+## Lessons Learned
+
+Understanding web technologies: By using HTML, CSS, Tailwind CSS, and JavaScript, you gained a deeper understanding of how these technologies work together to create a web application.
+
+Responsive design: By ensuring that your project is responsive and works well on all devices, you gained experience in designing for a variety of screen sizes and resolutions.
+
+Cloning existing products: By creating a clone of an existing product like Google Meet, you gained experience in reverse engineering and understanding how existing web applications work.
+
+Version control: By using Git to manage your project and push it to a GitHub repository, you gained experience in version control and collaborating with others on code.
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/AnitaMohanta23/Google-Meet-Clone
+```
+
+Go to the project directory
+
+```bash
+  cd Google-Meet-Clone
+```
+
+Start code editor
+
+```bash
+  code .
+```
+
+## Screenshots
+
+(![Screenshot (40)](https://github.com/AnitaMohanta23/Google-Meet-Clone/assets/124444765/02515c7d-e0cb-4386-aa89-d345488bc3f8)
+)
+
+
