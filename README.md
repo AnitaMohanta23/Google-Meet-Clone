@@ -34,12 +34,20 @@ Please adhere to this project's `code of conduct`.
 
 
 https://github.com/AnitaMohanta23/Google-Meet-Clone/
+![image](https://github.com/AnitaMohanta23/Google-Meet-Clone/assets/124444765/37b907c6-c0d0-4192-aad0-a3cabff1f754)
+
 
 ## Feedback
 
 If you have any feedback, please reach out to us at anitamohanta382@gmail.com
 
+## Run Locally
 
+Clone the project
+
+```bash
+  git clone https://github.com/AnitaMohanta23/Google-Meet-Clone
+```
 ## Lessons Learned
 
 Understanding web technologies: By using HTML, CSS, Tailwind CSS, and JavaScript, you gained a deeper understanding of how these technologies work together to create a web application.
@@ -50,16 +58,10 @@ Cloning existing products: By creating a clone of an existing product like Googl
 
 Version control: By using Git to manage your project and push it to a GitHub repository, you gained experience in version control and collaborating with others on code.
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/AnitaMohanta23/Google-Meet-Clone
-```
 
 
-![image](https://github.com/AnitaMohanta23/Google-Meet-Clone/assets/124444765/37b907c6-c0d0-4192-aad0-a3cabff1f754)
+
+
 
 
 
