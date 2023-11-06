@@ -57,17 +57,6 @@ Clone the project
   git clone https://github.com/AnitaMohanta23/Google-Meet-Clone
 ```
 
-Go to the project directory
-
-```bash
-  cd Google-Meet-Clone
-```
-
-Start code editor
-
-```bash
-  code .
-```
 
 ## Screenshots
 
